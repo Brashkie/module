@@ -1,1 +1,92 @@
+{
+    "id": 25,
+    "nombre": "Pikachu",
+    "categoria": "Pokémon Ratón",
+    "descripcion": "Pikachu, un Pokémon de tipo Eléctrico, es uno de los más reconocibles y populares. Acumula electricidad en sus mejillas y la libera en descargas poderosas. Es famoso por su agilidad, carácter amistoso y su vínculo con los entrenadores.",
+    "tipo": ["Eléctrico"],
+    "altura": {
+        "decimetros": 4,
+        "metros": 0.4
+    },
+    "peso": {
+        "hectogramos": 60,
+        "kg": 6.0
+    },
+    "habilidades": [
+        {
+            "nombre": "Elec. Estática",
+            "efecto": "Puede paralizar al oponente si entra en contacto directo."
+        },
+        {
+            "nombre": "Pararrayos",
+            "efecto": "Atrae los ataques eléctricos hacia sí mismo, anulando el daño y aumentando el Ataque Especial."
+        }
+    ],
+    "estadisticas": {
+        "hp": 35,
+        "ataque": 55,
+        "defensa": 40,
+        "ataque_especial": 50,
+        "defensa_especial": 50,
+        "velocidad": 90,
+        "total": 320
+    },
+    "evoluciona_de": {
+        "id": 172,
+        "nombre": "Pichu",
+        "metodo": "Sube de nivel con amistad alta"
+    },
+    "evoluciona_a": {
+        "id": 26,
+        "nombre": "Raichu",
+        "metodo": "Usar Piedra Trueno"
+    },
+    "entradas_pokedex": {
+        "pokemon_espada": "Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas.",
+        "pokemon_escudo": "Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.",
+        "anime": "El Pikachu de Ash se ha convertido en un símbolo del compañerismo entre entrenador y Pokémon."
+    },
+    "datos_juego": {
+        "tasa_captura": 190,
+        "grupo_huevos": ["Campo", "Hada"],
+        "tiempo_eclosion": "10 ciclos (~2,560 pasos)",
+        "ratio_genero": {
+            "macho": 50,
+            "hembra": 50
+        },
+        "experiencia_base": 112,
+        "nivel_amistad_base": 70
+    },
+    "movimientos_destacados": [
+        {
+            "nombre": "Impactrueno",
+            "tipo": "Eléctrico",
+            "categoria": "Especial",
+            "poder": 40,
+            "precision": 100,
+            "descripcion": "Una descarga eléctrica rápida que puede paralizar al oponente."
+        },
+        {
+            "nombre": "Rayo",
+            "tipo": "Eléctrico",
+            "categoria": "Especial",
+            "poder": 90,
+            "precision": 100,
+            "descripcion": "Un potente rayo eléctrico que puede paralizar al rival."
+        },
+        {
+            "nombre": "Voltio Cruel",
+            "tipo": "Eléctrico",
+            "categoria": "Físico",
+            "poder": 90,
+            "precision": 100,
+            "descripcion": "Un ataque eléctrico cargado en el cuerpo. El usuario recibe daño por retroceso."
+        }
+    ],
+    "curiosidades": [
+        "Pikachu es la mascota oficial de la franquicia Pokémon.",
+        "Puede comunicarse principalmente diciendo su nombre.",
+        "En algunas regiones, es considerado un símbolo cultural."
+    ]
+}
 
