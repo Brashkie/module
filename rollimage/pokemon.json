@@ -1,187 +1,365 @@
 {
-  "personajes": [
-    {
-      "id": 25,
-      "nombre": "Pikachu",
-      "categoria": "Pokémon Ratón",
-      "descripcion": "Pikachu, un Pokémon de tipo Eléctrico, es uno de los más reconocibles y populares. Acumula electricidad en sus mejillas y la libera en descargas poderosas. Es famoso por su agilidad, carácter amistoso y su vínculo con los entrenadores.",
-      "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-      "tipo": ["Eléctrico"],
-      "altura": {
-        "decimetros": 4,
-        "metros": 0.4
-      },
-      "peso": {
-        "hectogramos": 60,
-        "kg": 6.0
-      },
-      "habilidades": [
-        {
-          "nombre": "Elec. Estática",
-          "efecto": "Puede paralizar al oponente si entra en contacto directo."
-        },
-        {
-          "nombre": "Pararrayos",
-          "efecto": "Atrae los ataques eléctricos hacia sí mismo, anulando el daño y aumentando el Ataque Especial."
-        }
-      ],
-      "estadisticas": {
-        "hp": 35,
-        "ataque": 55,
-        "defensa": 40,
-        "ataque_especial": 50,
-        "defensa_especial": 50,
-        "velocidad": 90,
-        "total": 320
-      },
-      "evoluciona_de": {
-        "id": 172,
-        "nombre": "Pichu",
-        "metodo": "Sube de nivel con amistad alta",
-        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
-      },
-      "evoluciona_a": {
-        "id": 26,
-        "nombre": "Raichu",
-        "metodo": "Usar Piedra Trueno",
-        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
-      },
-      "entradas_pokedex": {
-        "pokemon_espada": "Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas.",
-        "pokemon_escudo": "Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.",
-        "anime": "El Pikachu de Ash se ha convertido en un símbolo del compañerismo entre entrenador y Pokémon."
-      },
-      "datos_juego": {
-        "tasa_captura": 190,
-        "grupo_huevos": ["Campo", "Hada"],
-        "tiempo_eclosion": "10 ciclos (~2,560 pasos)",
-        "ratio_genero": {
-          "macho": 50,
-          "hembra": 50
-        },
-        "experiencia_base": 112,
-        "nivel_amistad_base": 70
-      },
-      "movimientos_destacados": [
-        {
-          "nombre": "Impactrueno",
-          "tipo": "Eléctrico",
-          "categoria": "Especial",
-          "poder": 40,
-          "precision": 100,
-          "descripcion": "Una descarga eléctrica rápida que puede paralizar al oponente."
-        },
-        {
-          "nombre": "Rayo",
-          "tipo": "Eléctrico",
-          "categoria": "Especial",
-          "poder": 90,
-          "precision": 100,
-          "descripcion": "Un potente rayo eléctrico que puede paralizar al rival."
-        },
-        {
-          "nombre": "Voltio Cruel",
-          "tipo": "Eléctrico",
-          "categoria": "Físico",
-          "poder": 90,
-          "precision": 100,
-          "descripcion": "Un ataque eléctrico cargado en el cuerpo. El usuario recibe daño por retroceso."
-        }
-      ],
-      "curiosidades": [
-        "Pikachu es la mascota oficial de la franquicia Pokémon.",
-        "Puede comunicarse principalmente diciendo su nombre.",
-        "En algunas regiones, es considerado un símbolo cultural."
-      ]
-    },
-    {
-      "id": 6,
-      "nombre": "Charizard",
-      "categoria": "Pokémon Llama",
-      "descripcion": "Charizard es un Pokémon de tipo Fuego/Volador. Su aliento es capaz de fundir cualquier cosa y suele preferir combatir contra rivales fuertes.",
-      "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-      "tipo": ["Fuego", "Volador"],
-      "altura": {
-        "decimetros": 17,
-        "metros": 1.7
-      },
-      "peso": {
-        "hectogramos": 905,
-        "kg": 90.5
-      },
-      "habilidades": [
-        {
-          "nombre": "Mar Llamas",
-          "efecto": "Potencia los movimientos de tipo Fuego cuando el Pokémon tiene poca salud."
-        },
-        {
-          "nombre": "Poder Solar",
-          "efecto": "Aumenta el Ataque Especial cuando hace sol, pero pierde PS en cada turno."
-        }
-      ],
-      "estadisticas": {
-        "hp": 78,
-        "ataque": 84,
-        "defensa": 78,
-        "ataque_especial": 109,
-        "defensa_especial": 85,
-        "velocidad": 100,
-        "total": 534
-      },
-      "evoluciona_de": {
-        "id": 5,
-        "nombre": "Charmeleon",
-        "metodo": "Sube de nivel al 36",
-        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
-      },
-      "evoluciona_a": null,
-      "entradas_pokedex": {
-        "pokemon_espada": "Cuando exhala fuego, la temperatura alcanza tal nivel que funde cualquier cosa.",
-        "pokemon_escudo": "Le gusta volar en busca de oponentes poderosos con los que luchar.",
-        "anime": "El Charizard de Ash se hizo famoso por su carácter rebelde y gran poder."
-      },
-      "datos_juego": {
-        "tasa_captura": 45,
-        "grupo_huevos": ["Monstruo", "Dragón"],
-        "tiempo_eclosion": "20 ciclos (~5,120 pasos)",
-        "ratio_genero": {
-          "macho": 87.5,
-          "hembra": 12.5
-        },
-        "experiencia_base": 240,
-        "nivel_amistad_base": 70
-      },
-      "movimientos_destacados": [
-        {
-          "nombre": "Lanzallamas",
-          "tipo": "Fuego",
-          "categoria": "Especial",
-          "poder": 90,
-          "precision": 100,
-          "descripcion": "El usuario lanza un potente chorro de fuego con posibilidad de quemar al objetivo."
-        },
-        {
-          "nombre": "Vuelo",
-          "tipo": "Volador",
-          "categoria": "Físico",
-          "poder": 90,
-          "precision": 95,
-          "descripcion": "El usuario se eleva en el primer turno y ataca en el segundo."
-        },
-        {
-          "nombre": "Llamarada",
-          "tipo": "Fuego",
-          "categoria": "Especial",
-          "poder": 110,
-          "precision": 85,
-          "descripcion": "Un fuego abrasador que puede causar quemaduras al rival."
-        }
-      ],
-      "curiosidades": [
-        "Charizard puede megaevolucionar en dos formas distintas.",
-        "Es uno de los Pokémon más icónicos de la primera generación.",
-        "Suele ser usado como símbolo de fuerza y poder en la franquicia."
-      ]
-    }
-  ]
+ "personajes": [
+   {
+     "id": 25,
+     "nombre": "Pikachu",
+     "categoria": "Pokémon Ratón",
+     "descripcion": "Pikachu, un Pokémon de tipo Eléctrico, es uno de los más reconocibles y populares. Acumula electricidad en sus mejillas y la libera en descargas poderosas. Es famoso por su agilidad, carácter amistoso y su vínculo con los entrenadores.",
+     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+     "tipo": ["Eléctrico"],
+     "altura": {
+       "decimetros": 4,
+       "metros": 0.4
+     },
+     "peso": {
+       "hectogramos": 60,
+       "kg": 6.0
+     },
+     "habilidades": [
+       {
+         "nombre": "Elec. Estática",
+         "efecto": "Puede paralizar al oponente si entra en contacto directo."
+       },
+       {
+         "nombre": "Pararrayos",
+         "efecto": "Atrae los ataques eléctricos hacia sí mismo, anulando el daño y aumentando el Ataque Especial."
+       }
+     ],
+     "estadisticas": {
+       "hp": 35,
+       "ataque": 55,
+       "defensa": 40,
+       "ataque_especial": 50,
+       "defensa_especial": 50,
+       "velocidad": 90,
+       "total": 320
+     },
+     "evoluciona_de": {
+       "id": 172,
+       "nombre": "Pichu",
+       "metodo": "Sube de nivel con amistad alta",
+       "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
+     },
+     "evoluciona_a": {
+       "id": 26,
+       "nombre": "Raichu",
+       "metodo": "Usar Piedra Trueno",
+       "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+     },
+     "entradas_pokedex": {
+       "pokemon_espada": "Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas.",
+       "pokemon_escudo": "Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.",
+       "anime": "El Pikachu de Ash se ha convertido en un símbolo del compañerismo entre entrenador y Pokémon."
+     },
+     "datos_juego": {
+       "tasa_captura": 190,
+       "grupo_huevos": ["Campo", "Hada"],
+       "tiempo_eclosion": "10 ciclos (~2,560 pasos)",
+       "ratio_genero": {
+         "macho": 50,
+         "hembra": 50
+       },
+       "experiencia_base": 112,
+       "nivel_amistad_base": 70
+     },
+     "movimientos_destacados": [
+       {
+         "nombre": "Impactrueno",
+         "tipo": "Eléctrico",
+         "categoria": "Especial",
+         "poder": 40,
+         "precision": 100,
+         "descripcion": "Una descarga eléctrica rápida que puede paralizar al oponente."
+       },
+       {
+         "nombre": "Rayo",
+         "tipo": "Eléctrico",
+         "categoria": "Especial",
+         "poder": 90,
+         "precision": 100,
+         "descripcion": "Un potente rayo eléctrico que puede paralizar al rival."
+       },
+       {
+         "nombre": "Voltio Cruel",
+         "tipo": "Eléctrico",
+         "categoria": "Físico",
+         "poder": 90,
+         "precision": 100,
+         "descripcion": "Un ataque eléctrico cargado en el cuerpo. El usuario recibe daño por retroceso."
+       }
+     ],
+     "curiosidades": [
+       "Pikachu es la mascota oficial de la franquicia Pokémon.",
+       "Puede comunicarse principalmente diciendo su nombre.",
+       "En algunas regiones, es considerado un símbolo cultural."
+     ]
+   },
+   {
+     "id": 6,
+     "nombre": "Charizard",
+     "categoria": "Pokémon Llama",
+     "descripcion": "Charizard es un Pokémon de tipo Fuego/Volador. Su aliento es capaz de fundir cualquier cosa y suele preferir combatir contra rivales fuertes.",
+     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+     "tipo": ["Fuego", "Volador"],
+     "altura": {
+       "decimetros": 17,
+       "metros": 1.7
+     },
+     "peso": {
+       "hectogramos": 905,
+       "kg": 90.5
+     },
+     "habilidades": [
+       {
+         "nombre": "Mar Llamas",
+         "efecto": "Potencia los movimientos de tipo Fuego cuando el Pokémon tiene poca salud."
+       },
+       {
+         "nombre": "Poder Solar",
+         "efecto": "Aumenta el Ataque Especial cuando hace sol, pero pierde PS en cada turno."
+       }
+     ],
+     "estadisticas": {
+       "hp": 78,
+       "ataque": 84,
+       "defensa": 78,
+       "ataque_especial": 109,
+       "defensa_especial": 85,
+       "velocidad": 100,
+       "total": 534
+     },
+     "evoluciona_de": {
+       "id": 5,
+       "nombre": "Charmeleon",
+       "metodo": "Sube de nivel al 36",
+       "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+     },
+     "evoluciona_a": null,
+     "entradas_pokedex": {
+       "pokemon_espada": "Cuando exhala fuego, la temperatura alcanza tal nivel que funde cualquier cosa.",
+       "pokemon_escudo": "Le gusta volar en busca de oponentes poderosos con los que luchar.",
+       "anime": "El Charizard de Ash se hizo famoso por su carácter rebelde y gran poder."
+     },
+     "datos_juego": {
+       "tasa_captura": 45,
+       "grupo_huevos": ["Monstruo", "Dragón"],
+       "tiempo_eclosion": "20 ciclos (~5,120 pasos)",
+       "ratio_genero": {
+         "macho": 87.5,
+         "hembra": 12.5
+       },
+       "experiencia_base": 240,
+       "nivel_amistad_base": 70
+     },
+     "movimientos_destacados": [
+       {
+         "nombre": "Lanzallamas",
+         "tipo": "Fuego",
+         "categoria": "Especial",
+         "poder": 90,
+         "precision": 100,
+         "descripcion": "El usuario lanza un potente chorro de fuego con posibilidad de quemar al objetivo."
+       },
+       {
+         "nombre": "Vuelo",
+         "tipo": "Volador",
+         "categoria": "Físico",
+         "poder": 90,
+         "precision": 95,
+         "descripcion": "El usuario se eleva en el primer turno y ataca en el segundo."
+       },
+       {
+         "nombre": "Llamarada",
+         "tipo": "Fuego",
+         "categoria": "Especial",
+         "poder": 110,
+         "precision": 85,
+         "descripcion": "Un fuego abrasador que puede causar quemaduras al rival."
+       }
+     ],
+     "curiosidades": [
+       "Charizard puede megaevolucionar en dos formas distintas.",
+       "Es uno de los Pokémon más icónicos de la primera generación.",
+       "Suele ser usado como símbolo de fuerza y poder en la franquicia."
+     ]
+   },
+   {
+     "id": 1,
+     "nombre": "Bulbasaur",
+     "categoria": "Pokémon Semilla",
+     "descripcion": "Bulbasaur es un Pokémon cuadrúpedo de tipo Planta/Veneno. Lleva un bulbo en el lomo que crece alimentándose de los nutrientes de su cuerpo.",
+     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+     "tipo": ["Planta", "Veneno"],
+     "altura": {
+       "decimetros": 7,
+       "metros": 0.7
+     },
+     "peso": {
+       "hectogramos": 69,
+       "kg": 6.9
+     },
+     "habilidades": [
+       {
+         "nombre": "Espesura",
+         "efecto": "Potencia los movimientos de tipo Planta cuando el Pokémon tiene poca salud."
+       },
+       {
+         "nombre": "Clorofila",
+         "efecto": "Duplica la Velocidad cuando hace sol."
+       }
+     ],
+     "estadisticas": {
+       "hp": 45,
+       "ataque": 49,
+       "defensa": 49,
+       "ataque_especial": 65,
+       "defensa_especial": 65,
+       "velocidad": 45,
+       "total": 318
+     },
+     "evoluciona_de": null,
+     "evoluciona_a": {
+       "id": 2,
+       "nombre": "Ivysaur",
+       "metodo": "Sube de nivel al 16",
+       "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+     },
+     "entradas_pokedex": {
+       "pokemon_espada": "Puede sobrevivir durante días sin comer gracias a que el bulbo de su lomo almacena energía.",
+       "pokemon_escudo": "El bulbo de su espalda crece al absorber los rayos solares. Cuando está a punto de florecer, desprende un dulce aroma.",
+       "anime": "El Bulbasaur de Ash fue conocido por su lealtad inquebrantable y su negativa a evolucionar."
+     },
+     "datos_juego": {
+       "tasa_captura": 45,
+       "grupo_huevos": ["Monstruo", "Planta"],
+       "tiempo_eclosion": "20 ciclos (~5,120 pasos)",
+       "ratio_genero": {
+         "macho": 87.5,
+         "hembra": 12.5
+       },
+       "experiencia_base": 64,
+       "nivel_amistad_base": 70
+     },
+     "movimientos_destacados": [
+       {
+         "nombre": "Hoja Afilada",
+         "tipo": "Planta",
+         "categoria": "Físico",
+         "poder": 55,
+         "precision": 95,
+         "descripcion": "Corta con hojas afiladas. Suele propinar golpes críticos."
+       },
+       {
+         "nombre": "Bomba Lodo",
+         "tipo": "Veneno",
+         "categoria": "Especial",
+         "poder": 90,
+         "precision": 100,
+         "descripcion": "Lanza lodo tóxico al rival con posibilidad de envenenarlo."
+       },
+       {
+         "nombre": "Rayo Solar",
+         "tipo": "Planta",
+         "categoria": "Especial",
+         "poder": 120,
+         "precision": 100,
+         "descripcion": "Absorbe luz en el primer turno y ataca en el segundo."
+       }
+     ],
+     "curiosidades": [
+       "Fue el primer Pokémon en aparecer en el Pokédex Nacional.",
+       "Es uno de los Pokémon iniciales de la región de Kanto.",
+       "Su diseño está inspirado en una rana con características de planta."
+     ]
+   },
+   {
+     "id": 7,
+     "nombre": "Squirtle",
+     "categoria": "Pokémon Tortuguita",
+     "descripcion": "Squirtle es un Pokémon de tipo Agua. Se refugia en su caparazón y contraataca disparando agua por la boca.",
+     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+     "tipo": ["Agua"],
+     "altura": {
+       "decimetros": 5,
+       "metros": 0.5
+     },
+     "peso": {
+       "hectogramos": 90,
+       "kg": 9.0
+     },
+     "habilidades": [
+       {
+         "nombre": "Torrente",
+         "efecto": "Potencia los movimientos de tipo Agua cuando el Pokémon tiene poca salud."
+       },
+       {
+         "nombre": "Lluvia",
+         "efecto": "Invoca lluvia al entrar en combate."
+       }
+     ],
+     "estadisticas": {
+       "hp": 44,
+       "ataque": 48,
+       "defensa": 65,
+       "ataque_especial": 50,
+       "defensa_especial": 64,
+       "velocidad": 43,
+       "total": 314
+     },
+     "evoluciona_de": null,
+     "evoluciona_a": {
+       "id": 8,
+       "nombre": "Wartortle",
+       "metodo": "Sube de nivel al 16",
+       "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+     },
+     "entradas_pokedex": {
+       "pokemon_espada": "Se refugia en su caparazón y contraataca disparando agua a presión por la boca.",
+       "pokemon_escudo": "Cuando mete la cabeza en su caparazón, puede disparar agua desde su boca con gran precisión.",
+       "anime": "El Squirtle de Ash lideró una pandilla de Squirtle antes de unirse a su equipo."
+     },
+     "datos_juego": {
+       "tasa_captura": 45,
+       "grupo_huevos": ["Monstruo", "Agua 1"],
+       "tiempo_eclosion": "20 ciclos (~5,120 pasos)",
+       "ratio_genero": {
+         "macho": 87.5,
+         "hembra": 12.5
+       },
+       "experiencia_base": 63,
+       "nivel_amistad_base": 70
+     },
+     "movimientos_destacados": [
+       {
+         "nombre": "Pistola Agua",
+         "tipo": "Agua",
+         "categoria": "Especial",
+         "poder": 40,
+         "precision": 100,
+         "descripcion": "Dispara agua a presión para atacar al rival."
+       },
+       {
+         "nombre": "Hidropulso",
+         "tipo": "Agua",
+         "categoria": "Especial",
+         "poder": 60,
+         "precision": 100,
+         "descripcion": "Ataque con ondas sónicas. Puede confundir al rival."
+       },
+       {
+         "nombre": "Hidrobomba",
+         "tipo": "Agua",
+         "categoria": "Especial",
+         "poder": 110,
+         "precision": 80,
+         "descripcion": "Lanza una gran cantidad de agua a presión."
+       }
+     ],
+     "curiosidades": [
+       "Es uno de los Pokémon iniciales de la región de Kanto.",
+       "Su caparazón se endurece con la edad.",
+       "Puede retraer sus extremidades dentro del caparazón para protegerse."
+     ]
+   }
+ ]
 }
