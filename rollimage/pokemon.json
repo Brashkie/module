@@ -1,28 +1,31 @@
 {
-    "id": 25,
-    "nombre": "Pikachu",
-    "categoria": "Pokémon Ratón",
-    "descripcion": "Pikachu, un Pokémon de tipo Eléctrico, es uno de los más reconocibles y populares. Acumula electricidad en sus mejillas y la libera en descargas poderosas. Es famoso por su agilidad, carácter amistoso y su vínculo con los entrenadores.",
-    "tipo": ["Eléctrico"],
-    "altura": {
+  "personajes": [
+    {
+      "id": 25,
+      "nombre": "Pikachu",
+      "categoria": "Pokémon Ratón",
+      "descripcion": "Pikachu, un Pokémon de tipo Eléctrico, es uno de los más reconocibles y populares. Acumula electricidad en sus mejillas y la libera en descargas poderosas. Es famoso por su agilidad, carácter amistoso y su vínculo con los entrenadores.",
+      "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "tipo": ["Eléctrico"],
+      "altura": {
         "decimetros": 4,
         "metros": 0.4
-    },
-    "peso": {
+      },
+      "peso": {
         "hectogramos": 60,
         "kg": 6.0
-    },
-    "habilidades": [
+      },
+      "habilidades": [
         {
-            "nombre": "Elec. Estática",
-            "efecto": "Puede paralizar al oponente si entra en contacto directo."
+          "nombre": "Elec. Estática",
+          "efecto": "Puede paralizar al oponente si entra en contacto directo."
         },
         {
-            "nombre": "Pararrayos",
-            "efecto": "Atrae los ataques eléctricos hacia sí mismo, anulando el daño y aumentando el Ataque Especial."
+          "nombre": "Pararrayos",
+          "efecto": "Atrae los ataques eléctricos hacia sí mismo, anulando el daño y aumentando el Ataque Especial."
         }
-    ],
-    "estadisticas": {
+      ],
+      "estadisticas": {
         "hp": 35,
         "ataque": 55,
         "defensa": 40,
@@ -30,63 +33,155 @@
         "defensa_especial": 50,
         "velocidad": 90,
         "total": 320
-    },
-    "evoluciona_de": {
+      },
+      "evoluciona_de": {
         "id": 172,
         "nombre": "Pichu",
-        "metodo": "Sube de nivel con amistad alta"
-    },
-    "evoluciona_a": {
+        "metodo": "Sube de nivel con amistad alta",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
+      },
+      "evoluciona_a": {
         "id": 26,
         "nombre": "Raichu",
-        "metodo": "Usar Piedra Trueno"
-    },
-    "entradas_pokedex": {
+        "metodo": "Usar Piedra Trueno",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+      },
+      "entradas_pokedex": {
         "pokemon_espada": "Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas.",
         "pokemon_escudo": "Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.",
         "anime": "El Pikachu de Ash se ha convertido en un símbolo del compañerismo entre entrenador y Pokémon."
-    },
-    "datos_juego": {
+      },
+      "datos_juego": {
         "tasa_captura": 190,
         "grupo_huevos": ["Campo", "Hada"],
         "tiempo_eclosion": "10 ciclos (~2,560 pasos)",
         "ratio_genero": {
-            "macho": 50,
-            "hembra": 50
+          "macho": 50,
+          "hembra": 50
         },
         "experiencia_base": 112,
         "nivel_amistad_base": 70
-    },
-    "movimientos_destacados": [
+      },
+      "movimientos_destacados": [
         {
-            "nombre": "Impactrueno",
-            "tipo": "Eléctrico",
-            "categoria": "Especial",
-            "poder": 40,
-            "precision": 100,
-            "descripcion": "Una descarga eléctrica rápida que puede paralizar al oponente."
+          "nombre": "Impactrueno",
+          "tipo": "Eléctrico",
+          "categoria": "Especial",
+          "poder": 40,
+          "precision": 100,
+          "descripcion": "Una descarga eléctrica rápida que puede paralizar al oponente."
         },
         {
-            "nombre": "Rayo",
-            "tipo": "Eléctrico",
-            "categoria": "Especial",
-            "poder": 90,
-            "precision": 100,
-            "descripcion": "Un potente rayo eléctrico que puede paralizar al rival."
+          "nombre": "Rayo",
+          "tipo": "Eléctrico",
+          "categoria": "Especial",
+          "poder": 90,
+          "precision": 100,
+          "descripcion": "Un potente rayo eléctrico que puede paralizar al rival."
         },
         {
-            "nombre": "Voltio Cruel",
-            "tipo": "Eléctrico",
-            "categoria": "Físico",
-            "poder": 90,
-            "precision": 100,
-            "descripcion": "Un ataque eléctrico cargado en el cuerpo. El usuario recibe daño por retroceso."
+          "nombre": "Voltio Cruel",
+          "tipo": "Eléctrico",
+          "categoria": "Físico",
+          "poder": 90,
+          "precision": 100,
+          "descripcion": "Un ataque eléctrico cargado en el cuerpo. El usuario recibe daño por retroceso."
         }
-    ],
-    "curiosidades": [
+      ],
+      "curiosidades": [
         "Pikachu es la mascota oficial de la franquicia Pokémon.",
         "Puede comunicarse principalmente diciendo su nombre.",
         "En algunas regiones, es considerado un símbolo cultural."
-    ]
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Charizard",
+      "categoria": "Pokémon Llama",
+      "descripcion": "Charizard es un Pokémon de tipo Fuego/Volador. Su aliento es capaz de fundir cualquier cosa y suele preferir combatir contra rivales fuertes.",
+      "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "tipo": ["Fuego", "Volador"],
+      "altura": {
+        "decimetros": 17,
+        "metros": 1.7
+      },
+      "peso": {
+        "hectogramos": 905,
+        "kg": 90.5
+      },
+      "habilidades": [
+        {
+          "nombre": "Mar Llamas",
+          "efecto": "Potencia los movimientos de tipo Fuego cuando el Pokémon tiene poca salud."
+        },
+        {
+          "nombre": "Poder Solar",
+          "efecto": "Aumenta el Ataque Especial cuando hace sol, pero pierde PS en cada turno."
+        }
+      ],
+      "estadisticas": {
+        "hp": 78,
+        "ataque": 84,
+        "defensa": 78,
+        "ataque_especial": 109,
+        "defensa_especial": 85,
+        "velocidad": 100,
+        "total": 534
+      },
+      "evoluciona_de": {
+        "id": 5,
+        "nombre": "Charmeleon",
+        "metodo": "Sube de nivel al 36",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+      },
+      "evoluciona_a": null,
+      "entradas_pokedex": {
+        "pokemon_espada": "Cuando exhala fuego, la temperatura alcanza tal nivel que funde cualquier cosa.",
+        "pokemon_escudo": "Le gusta volar en busca de oponentes poderosos con los que luchar.",
+        "anime": "El Charizard de Ash se hizo famoso por su carácter rebelde y gran poder."
+      },
+      "datos_juego": {
+        "tasa_captura": 45,
+        "grupo_huevos": ["Monstruo", "Dragón"],
+        "tiempo_eclosion": "20 ciclos (~5,120 pasos)",
+        "ratio_genero": {
+          "macho": 87.5,
+          "hembra": 12.5
+        },
+        "experiencia_base": 240,
+        "nivel_amistad_base": 70
+      },
+      "movimientos_destacados": [
+        {
+          "nombre": "Lanzallamas",
+          "tipo": "Fuego",
+          "categoria": "Especial",
+          "poder": 90,
+          "precision": 100,
+          "descripcion": "El usuario lanza un potente chorro de fuego con posibilidad de quemar al objetivo."
+        },
+        {
+          "nombre": "Vuelo",
+          "tipo": "Volador",
+          "categoria": "Físico",
+          "poder": 90,
+          "precision": 95,
+          "descripcion": "El usuario se eleva en el primer turno y ataca en el segundo."
+        },
+        {
+          "nombre": "Llamarada",
+          "tipo": "Fuego",
+          "categoria": "Especial",
+          "poder": 110,
+          "precision": 85,
+          "descripcion": "Un fuego abrasador que puede causar quemaduras al rival."
+        }
+      ],
+      "curiosidades": [
+        "Charizard puede megaevolucionar en dos formas distintas.",
+        "Es uno de los Pokémon más icónicos de la primera generación.",
+        "Suele ser usado como símbolo de fuerza y poder en la franquicia."
+      ]
+    }
+  ]
 }
-
