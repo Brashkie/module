@@ -1,0 +1,16 @@
+{
+  "name": "module-brashkie",
+  "version": "1.0.0",
+  "description": "Módulo para obtener información de Pokémon, anime y contenido random.",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brashkie",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "axios": "^0.24.0"
+  }
+}
