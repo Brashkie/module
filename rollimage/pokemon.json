@@ -360,6 +360,178 @@
        "Su caparazón se endurece con la edad.",
        "Puede retraer sus extremidades dentro del caparazón para protegerse."
      ]
+   },
+   {
+     "id": 150,
+     "nombre": "Mewtwo",
+     "categoria": "Pokémon Genético",
+     "descripcion": "Mewtwo es un Pokémon de tipo Psíquico creado artificialmente. Posee poderes psíquicos extraordinarios y fue diseñado para ser el Pokémon más poderoso del mundo.",
+     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+     "tipo": ["Psíquico"],
+     "altura": {
+       "decimetros": 20,
+       "metros": 2.0
+     },
+     "peso": {
+       "hectogramos": 1220,
+       "kg": 122.0
+     },
+     "habilidades": [
+       {
+         "nombre": "Presión",
+         "efecto": "Hace que el rival gaste más PP al usar movimientos contra este Pokémon."
+       },
+       {
+         "nombre": "Nerviosismo",
+         "efecto": "Impide al rival usar bayas."
+       }
+     ],
+     "estadisticas": {
+       "hp": 106,
+       "ataque": 110,
+       "defensa": 90,
+       "ataque_especial": 154,
+       "defensa_especial": 90,
+       "velocidad": 130,
+       "total": 680
+     },
+     "evoluciona_de": null,
+     "evoluciona_a": null,
+     "entradas_pokedex": {
+       "pokemon_espada": "Fue creado por un científico tras años de experimentos de ingeniería genética horribles e inhumanos.",
+       "pokemon_escudo": "Su ADN es casi el mismo que el de Mew. Sin embargo, su tamaño y carácter son muy diferentes.",
+       "anime": "Mewtwo ha sido protagonista de varias películas, conocido por su búsqueda de identidad y propósito."
+     },
+     "datos_juego": {
+       "tasa_captura": 3,
+       "grupo_huevos": ["Desconocido"],
+       "tiempo_eclosion": "120 ciclos (~30,720 pasos)",
+       "ratio_genero": {
+         "macho": 0,
+         "hembra": 0
+       },
+       "experiencia_base": 306,
+       "nivel_amistad_base": 0
+     },
+     "movimientos_destacados": [
+       {
+         "nombre": "Psíquico",
+         "tipo": "Psíquico",
+         "categoria": "Especial",
+         "poder": 90,
+         "precision": 100,
+         "descripcion": "Ataque mental que puede mover objetos y reducir la Defensa Especial del rival."
+       },
+       {
+         "nombre": "Esfera Aural",
+         "tipo": "Lucha",
+         "categoria": "Especial",
+         "poder": 80,
+         "precision": 100,
+         "descripcion": "Golpe de energía que nunca falla y puede atravesar barreras."
+       },
+       {
+         "nombre": "Recuperación",
+         "tipo": "Normal",
+         "categoria": "Estado",
+         "poder": 0,
+         "precision": 100,
+         "descripcion": "Restaura hasta la mitad de los PS máximos."
+       }
+     ],
+     "curiosidades": [
+       "Es uno de los Pokémon legendarios más poderosos.",
+       "Fue creado a partir del ADN de Mew.",
+       "Puede megaevolucionar en dos formas diferentes: Mega Mewtwo X y Mega Mewtwo Y."
+     ]
+   },
+   {
+     "id": 131,
+     "nombre": "Lapras",
+     "categoria": "Pokémon Transporte",
+     "descripcion": "Lapras es un Pokémon de tipo Agua/Hielo. Es gentil y muy inteligente, capaz de entender el lenguaje humano y transportar personas a través del océano.",
+     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+     "tipo": ["Agua", "Hielo"],
+     "altura": {
+       "decimetros": 25,
+       "metros": 2.5
+     },
+     "peso": {
+       "hectogramos": 2200,
+       "kg": 220.0
+     },
+     "habilidades": [
+       {
+         "nombre": "Absorbe Agua",
+         "efecto": "Restaura PS cuando es alcanzado por movimientos de tipo Agua."
+       },
+       {
+         "nombre": "Caparazón",
+         "efecto": "Protege al Pokémon de los efectos secundarios de los movimientos del rival."
+       },
+       {
+         "nombre": "Hidratación",
+         "efecto": "Cura los problemas de estado cuando llueve."
+       }
+     ],
+     "estadisticas": {
+       "hp": 130,
+       "ataque": 85,
+       "defensa": 80,
+       "ataque_especial": 85,
+       "defensa_especial": 95,
+       "velocidad": 60,
+       "total": 535
+     },
+     "evoluciona_de": null,
+     "evoluciona_a": null,
+     "entradas_pokedex": {
+       "pokemon_espada": "Le gusta transportar gente y Pokémon en su lomo mientras cruza mares y lagos.",
+       "pokemon_escudo": "Entiende el lenguaje humano. Se dice que es muy inteligente y que tiene un corazón compasivo.",
+       "anime": "Ash encontró un Lapras joven que había sido separado de su manada y lo ayudó a reunirse con su familia."
+     },
+     "datos_juego": {
+       "tasa_captura": 45,
+       "grupo_huevos": ["Monstruo", "Agua 1"],
+       "tiempo_eclosion": "40 ciclos (~10,240 pasos)",
+       "ratio_genero": {
+         "macho": 50,
+         "hembra": 50
+       },
+       "experiencia_base": 187,
+       "nivel_amistad_base": 70
+     },
+     "movimientos_destacados": [
+       {
+         "nombre": "Surf",
+         "tipo": "Agua",
+         "categoria": "Especial",
+         "poder": 90,
+         "precision": 100,
+         "descripcion": "Una gran ola que se estrella contra todos los Pokémon que tiene alrededor."
+       },
+       {
+         "nombre": "Rayo Hielo",
+         "tipo": "Hielo",
+         "categoria": "Especial",
+         "poder": 90,
+         "precision": 100,
+         "descripcion": "Un rayo helado que puede congelar al rival."
+       },
+       {
+         "nombre": "Psíquico",
+         "tipo": "Psíquico",
+         "categoria": "Especial",
+         "poder": 90,
+         "precision": 100,
+         "descripcion": "Ataque mental que puede mover objetos."
+       }
+     ],
+     "curiosidades": [
+       "Está en peligro de extinción y es muy raro encontrarlo en estado salvaje.",
+       "Su canto melancólico puede calmar los corazones de quienes lo escuchan.",
+       "Puede usar Gigamax en la región de Galar, convirtiéndose en una enorme concha."
+     ]
    }
  ]
 }
