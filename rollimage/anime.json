@@ -1439,6 +1439,126 @@
       "gender": "Femenino",
       "price": 2200,
       "code": "TMI2mis"
+    },
+    {
+      "index": 121,
+      "url": "https://telegra.ph/file/example121.jpg",
+      "name": "Thorfinn",
+      "desp": "Vinland Saga",
+      "info": "Thorfinn Karlsefni es un joven guerrero vikingo consumido por la venganza contra Askeladd, el hombre que mató a su padre Thors. Su evolución a lo largo de la serie, desde un asesino sediento de sangre hasta un pacifista que busca crear 'Vinland', una tierra sin guerra ni esclavitud, representa uno de los desarrollos de personaje más profundos del manga. Su maestría con las dagas y su agilidad lo convierten en un luchador formidable, pero su verdadera fuerza radica en su eventual comprensión de que la verdadera batalla es contra la violencia misma.",
+      "class": "Legendario",
+      "type": "Manga, Anime, Vikingos, Venganza, Pacifismo, Historia, Crecimiento",
+      "gender": "Masculino",
+      "price": 2300,
+      "code": "VS1tho"
+    },
+    {
+      "index": 122,
+      "url": "https://telegra.ph/file/example122.jpg",
+      "name": "Askeladd",
+      "desp": "Vinland Saga",
+      "info": "Askeladd es un líder mercenario vikingo con sangre galesa que opera con astucia política y brutalidad calculada. Su relación compleja con Thorfinn, siendo tanto su enemigo como su mentor involuntario, define gran parte de la primera parte de la serie. Su lealtad secreta al Príncipe Canuto y su sacrificio final revelan a un hombre que, a pesar de sus métodos despiadados, tiene un código de honor profundo y una visión para el futuro. Su inteligencia táctica y su habilidad con la espada lo convierten en uno de los antagonistas más complejos del anime.",
+      "class": "Legendario",
+      "type": "Manga, Anime, Vikingos, Política, Mentor, Sacrificio, Astucia",
+      "gender": "Masculino",
+      "price": 2250,
+      "code": "VS2ask"
+    },
+    {
+      "index": 123,
+      "url": "https://telegra.ph/file/example123.jpg",
+      "name": "Canute",
+      "desp": "Vinland Saga",
+      "info": "El Príncipe Canuto comienza como un joven tímido y religioso, pero su transformación en un rey despiadado y pragmático es una de las evoluciones más impactantes de la serie. Su comprensión de que debe convertirse en un 'demonio' para crear un paraíso en la tierra lo lleva a tomar decisiones moralmente ambiguas pero estratégicamente necesarias. Su relación con Thorfinn y su lucha interna entre sus ideales cristianos y las realidades del poder político crean un personaje fascinantemente complejo.",
+      "class": "Épico",
+      "type": "Manga, Anime, Realeza, Transformación, Poder, Religión, Moral",
+      "gender": "Masculino",
+      "price": 1480,
+      "code": "VS3can"
+    },
+    {
+      "index": 124,
+      "url": "https://telegra.ph/file/example124.jpg",
+      "name": "Meruem",
+      "desp": "Hunter x Hunter",
+      "info": "Meruem es el Rey de las Hormigas Quimera, nacido para conquistar y consumir. Su evolución desde un tirano cruel hasta un ser capaz de amor y compasión a través de su relación con Komugi, una jugadora de Gungi ciega, es uno de los arcos más emotivos del anime. Su poder físico y mental es prácticamente sin límites, pero su desarrollo emocional y su comprensión final de la humanidad lo transforman en algo más que un simple antagonista. Su muerte junto a Komugi representa una de las conclusiones más poéticas y trágicas del anime.",
+      "class": "Supremo",
+      "type": "Anime, Hormigas Quimera, Rey, Evolución, Amor, Gungi, Humanidad",
+      "gender": "Masculino",
+      "price": 52000,
+      "code": "HH7mer"
+    },
+    {
+      "index": 125,
+      "url": "https://telegra.ph/file/example125.jpg",
+      "name": "Komugi",
+      "desp": "Hunter x Hunter",
+      "info": "Komugi es una joven ciega que es campeona mundial de Gungi, un juego de mesa complejo. Su pureza e inocencia, combinadas con su genio para el Gungi, logran tocar el corazón del Rey Meruem de una manera que nadie más pudo. A pesar de su aparente fragilidad, su determinación de mejorar constantemente en Gungi y su capacidad para ver lo bueno en todos, incluso en el temible Rey, demuestran una fuerza interior extraordinaria. Su relación con Meruem trasciende las barreras de especie y clase, representando el poder puro del amor y la comprensión mutua.",
+      "class": "Épico",
+      "type": "Anime, Gungi, Pureza, Genio, Amor, Ceguera, Compasión",
+      "gender": "Femenino",
+      "price": 1350,
+      "code": "HH8kom"
+    },
+    {
+      "index": 126,
+      "url": "https://telegra.ph/file/example126.jpg",
+      "name": "Johan Liebert",
+      "desp": "Monster",
+      "info": "Johan Liebert es considerado uno de los villanos más aterradores del anime, un psicópata manipulador con una inteligencia extraordinaria que puede corromper a casi cualquier persona con sus palabras. Su objetivo aparentemente es crear un mundo lleno de maldad pura, pero su verdadera motivación radica en un trauma infantil profundo y una búsqueda nihilista de significado. Su capacidad para manipular psicológicamente a otros y su presencia casi sobrenatural lo convierten en una fuerza de destrucción pura que opera desde las sombras.",
+      "class": "Supremo",
+      "type": "Anime, Psicológico, Manipulación, Nihilismo, Trauma, Maldad, Horror",
+      "gender": "Masculino",
+      "price": 47000,
+      "code": "MO1joh"
+    },
+    {
+      "index": 127,
+      "url": "https://telegra.ph/file/example127.jpg",
+      "name": "Dr. Kenzo Tenma",
+      "desp": "Monster",
+      "info": "Dr. Kenzo Tenma es un neurocirujano japonés brillante que trabaja en Alemania y cuya decisión de salvar la vida de un niño sobre la de un político cambia su vida para siempre. Cuando ese niño, Johan Liebert, se convierte en un monstruo, Tenma se embarca en una misión para detenerlo, lidiando con la culpa y la responsabilidad moral. Su lucha interna sobre el valor de la vida humana y su determinación de corregir su 'error' sin convertirse en un asesino lo convierten en uno de los protagonistas más moralmente complejos del anime.",
+      "class": "Épico",
+      "type": "Anime, Doctor, Moral, Culpa, Responsabilidad, Medicina, Alemania",
+      "gender": "Masculino",
+      "price": 1380,
+      "code": "MO2ten"
+    },
+    {
+      "index": 128,
+      "url": "https://telegra.ph/file/example128.jpg",
+      "name": "Nina Fortner",
+      "desp": "Monster",
+      "info": "Nina Fortner, también conocida como Anna Liebert, es la hermana gemela de Johan y una superviviente de experimentos psicológicos horribles en su infancia. Su búsqueda para detener a su hermano mientras lidia con sus propios recuerdos traumáticos y su identidad fragmentada la convierte en una figura trágica pero resiliente. Su fuerza para enfrentar su pasado y su determinación de evitar que Johan cause más daño demuestran una valentía extraordinaria. Su relación con Tenma y su lucha por recuperar su humanidad son elementos centrales de la narrativa.",
+      "class": "Épico",
+      "type": "Anime, Trauma, Identidad, Hermanos, Supervivencia, Valentía, Memoria",
+      "gender": "Femenino",
+      "price": 1320,
+      "code": "MO3nin"
+    },
+    {
+      "index": 129,
+      "url": "https://telegra.ph/file/example129.jpg",
+      "name": "Kensuke Aida",
+      "desp": "Neon Genesis Evangelion",
+      "info": "Kensuke Aida es uno de los compañeros de clase de Shinji Ikari, conocido por su obsesión con los asuntos militares y su deseo de pilotar un Evangelion. Su fascinación con la guerra y la tecnología militar contrasta con la realidad traumática que viven los pilotos reales. Representa la perspectiva del 'observador' que romantiza la guerra sin entender su verdadero costo. Su amistad con Shinji y Toji proporciona momentos de normalidad adolescente en medio del caos apocalíptico de la serie.",
+      "class": "Poco Común",
+      "type": "Anime, Militar, Adolescencia, Observador, Amistad, Normalidad, Guerra",
+      "gender": "Masculino",
+      "price": 420,
+      "code": "NGE7ken"
+    },
+    {
+      "index": 130,
+      "url": "https://telegra.ph/file/example130.jpg",
+      "name": "Riza Hawkeye",
+      "desp": "Fullmetal Alchemist",
+      "info": "Riza Hawkeye es la asistente leal del Coronel Roy Mustang y una francotiradora experta del ejército de Amestris. Su dedicación inquebrantable a Mustang va más allá del deber militar, basándose en una historia compartida y una confianza mutua profunda. Su precisión con las armas de fuego y su naturaleza protectora la convierten en una aliada invaluable. Su trasfondo con su padre y los secretos de la alquimia de llamas, literalmente tatuados en su espalda, añaden profundidad a su carácter ya complejo.",
+      "class": "Raro",
+      "type": "Anime, Militar, Francotiradora, Lealtad, Alquimia, Protección, Secretos",
+      "gender": "Femenino",
+      "price": 880,
+      "code": "FMA4riz"
     }
   ]
 }
