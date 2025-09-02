@@ -1199,6 +1199,126 @@
       "gender": "Femenino",
       "price": 1450,
       "code": "AGK1ak"
+    },
+    {
+      "index": 101,
+      "url": "https://telegra.ph/file/example101.jpg",
+      "name": "Eren Yeager",
+      "desp": "Attack on Titan (Shingeki no Kyojin)",
+      "info": "Eren Yeager es el protagonista principal que busca venganza contra los titanes después de que destruyeran su ciudad natal y mataran a su madre. Su capacidad de transformarse en el Titán de Ataque lo convierte en la esperanza de la humanidad, pero también en una fuerza potencialmente destructiva. Su evolución desde un joven vengativo hasta una figura moralmente compleja que lucha con conceptos de libertad, determinismo y genocidio lo convierte en uno de los protagonistas más controvertidos y fascinantes del anime moderno.",
+      "class": "Supremo",
+      "type": "Anime, Titanes, Venganza, Transformación, Libertad, Moral, Guerra",
+      "gender": "Masculino",
+      "price": 32000,
+      "code": "AOT1er"
+    },
+    {
+      "index": 102,
+      "url": "https://telegra.ph/file/example102.jpg",
+      "name": "Madara Uchiha",
+      "desp": "Naruto Shippuden",
+      "info": "Madara Uchiha es uno de los fundadores de la Aldea Oculta de la Hoja y uno de los antagonistas más poderosos de la serie. Su dominio del Sharingan, Rinnegan y técnicas como Susanoo lo convierten en una fuerza casi imparable. Su filosofía de crear paz a través del control absoluto y su plan del Ojo de la Luna Infinito revelan a un hombre que perdió la esperanza en la humanidad. Su batalla final y eventual redención muestran la complejidad de sus motivaciones más allá de la simple villanía.",
+      "class": "Supremo",
+      "type": "Anime, Ninjas, Sharingan, Rinnegan, Filosofía, Paz, Poder Absoluto",
+      "gender": "Masculino",
+      "price": 45000,
+      "code": "NR9mad"
+    },
+    {
+      "index": 103,
+      "url": "https://telegra.ph/file/example103.jpg",
+      "name": "Artoria Pendragon (Saber)",
+      "desp": "Fate/Stay Night",
+      "info": "Artoria Pendragon, invocada como Saber, es el legendario Rey Arturo de Bretaña. Su noble fantasma Excalibur y su inquebrantable código de honor la convierten en una de las Servants más poderosas de la Guerra del Santo Grial. Su lucha interna entre sus ideales caballerescos y la realidad brutal del liderazgo, así como su arrepentimiento por el destino de Camelot, crean un personaje profundamente trágico. Su relación con Shirou explora temas de sacrificio, idealismo y la búsqueda de redención.",
+      "class": "Legendario",
+      "type": "Anime, Fate, Rey Arturo, Caballería, Santo Grial, Honor, Excalibur",
+      "gender": "Femenino",
+      "price": 2300,
+      "code": "FS1sab"
+    },
+    {
+      "index": 104,
+      "url": "https://telegra.ph/file/example104.jpg",
+      "name": "Shirou Emiya",
+      "desp": "Fate/Stay Night",
+      "info": "Shirou Emiya es un joven que sobrevivió a una catástrofe cuando era niño y fue adoptado por el mago Kiritsugu Emiya. Su trauma lo llevó a desarrollar un complejo de supervivencia extremo y el deseo obsesivo de convertirse en un 'héroe de la justicia' que salve a todos. Su magia de proyección le permite recrear armas que ha visto, pero su verdadera fuerza radica en su determinación inquebrantable. Su crecimiento a lo largo de diferentes rutas de la historia explora diversos aspectos de su psicología y moralidad.",
+      "class": "Épico",
+      "type": "Anime, Fate, Magia, Héroe, Proyección, Trauma, Justicia",
+      "gender": "Masculino",
+      "price": 1400,
+      "code": "FS2shi"
+    },
+    {
+      "index": 105,
+      "url": "https://telegra.ph/file/example105.jpg",
+      "name": "Rin Tohsaka",
+      "desp": "Fate/Stay Night",
+      "info": "Rin Tohsaka es una maga de una prestigiosa familia que participa en la Quinta Guerra del Santo Grial como Master de Archer. Su personalidad tsundere oculta tanto su competencia mágica excepcional como su naturaleza genuinamente cariñosa. Como una de las estudiantes más populares de su escuela, mantiene una fachada perfecta mientras maneja secretamente sus deberes como maga. Su relación compleja con Shirou y su crecimiento personal a lo largo de la guerra revelan sus vulnerabilidades debajo de su exterior confiado.",
+      "class": "Épico",
+      "type": "Anime, Fate, Magia, Tsundere, Santo Grial, Competencia, Familia",
+      "gender": "Femenino",
+      "price": 1350,
+      "code": "FS3rin"
+    },
+    {
+      "index": 106,
+      "url": "https://telegra.ph/file/example106.jpg",
+      "name": "Gilgamesh",
+      "desp": "Fate/Stay Night",
+      "info": "Gilgamesh, el Rey de los Héroes, es considerado el Servant más poderoso con acceso a todos los tesoros del mundo a través de su Noble Phantasm 'Gate of Babylon'. Su arrogancia suprema y su desprecio por la humanidad moderna reflejan su estatus como el primer rey de la historia. Sin embargo, su complejo de superioridad oculta una comprensión profunda de la naturaleza humana y un respeto grudgingly otorgado a aquellos que demuestran verdadero valor. Su obsesión con Saber y su filosofía sobre la realeza lo convierten en un antagonista fascinante.",
+      "class": "Supremo",
+      "type": "Anime, Fate, Rey Antiguo, Tesoros, Arrogancia, Noble Phantasm, Poder",
+      "gender": "Masculino",
+      "price": 50000,
+      "code": "FS0gil"
+    },
+    {
+      "index": 107,
+      "url": "https://telegra.ph/file/example107.jpg",
+      "name": "Rimuru Tempest",
+      "desp": "That Time I Got Reincarnated as a Slime",
+      "info": "Rimuru Tempest comenzó como Satoru Mikami, un trabajador de oficina japonés que fue asesinado y reencarnado como un slime en un mundo de fantasía. Su habilidad única 'Gran Sabio' y su poder de absorción 'Predator' le permiten evolucionar constantemente y obtener nuevas habilidades. Como fundador y líder de la Nación Monstruo de Tempest, Rimuru busca crear un mundo donde todas las razas puedan coexistir pacíficamente. Su naturaleza benevolente pero su poder abrumador lo convierten en una figura tanto respetada como temida.",
+      "class": "Supremo",
+      "type": "Anime, Isekai, Slime, Evolución, Diplomacia, Nación, Absorción",
+      "gender": "Neutral",
+      "price": 40000,
+      "code": "TSL1ri"
+    },
+    {
+      "index": 108,
+      "url": "https://telegra.ph/file/example108.jpg",
+      "name": "Nami",
+      "desp": "One Piece",
+      "info": "Nami es la navegante de los Piratas del Sombrero de Paja y una experta ladrona con un talento excepcional para la cartografía y la navegación. Su sueño es crear un mapa completo del mundo, y su habilidad para predecir y entender el clima la convierte en una navegante invaluable. Su arma principal es el Clima-Tact, que le permite manipular el clima para crear ataques devastadores. A pesar de su obsesión con el dinero y su naturaleza aparentemente egoísta, Nami se preocupa profundamente por sus nakama y está dispuesta a sacrificarse por ellos.",
+      "class": "Raro",
+      "type": "Manga, Anime, Piratas, Navegación, Clima, Mapas, Tesoro",
+      "gender": "Femenino",
+      "price": 850,
+      "code": "OP3nam"
+    },
+    {
+      "index": 109,
+      "url": "https://telegra.ph/file/example109.jpg",
+      "name": "Sanji",
+      "desp": "One Piece",
+      "info": "Sanji es el cocinero de los Piratas del Sombrero de Paja, conocido por su habilidad culinaria excepcional y su estilo de lucha basado en patadas llamado 'Black Leg Style'. Su código de honor le prohíbe patear a una mujer, sin importar las circunstancias, y su caballerosidad a menudo lo mete en problemas. Su sueño es encontrar All Blue, un mar legendario donde se pueden encontrar peces de todos los océanos. Su trasfondo con los Vinsmoke y su lucha con su identidad como parte de una familia de asesinos genéticamente modificados añade profundidad a su personaje.",
+      "class": "Épico",
+      "type": "Manga, Anime, Piratas, Cocina, Caballerosidad, Patadas, All Blue",
+      "gender": "Masculino",
+      "price": 1300,
+      "code": "OP4san"
+    },
+    {
+      "index": 110,
+      "url": "https://telegra.ph/file/example110.jpg",
+      "name": "Nico Robin",
+      "desp": "One Piece",
+      "info": "Nico Robin es la arqueóloga de los Piratas del Sombrero de Paja y la única persona conocida capaz de leer los Poneglyphs, textos antiguos que contienen la historia verdadera del mundo. Su Fruta del Diablo, Hana Hana no Mi, le permite hacer florecer partes de su cuerpo en cualquier superficie. Su trasfondo trágico como la única superviviente de Ohara y su búsqueda de la verdadera historia del mundo la convierten en una figura misteriosa pero esencial. Su evolución de una aliada reluctante a un miembro leal de la tripulación es uno de los arcos emocionales más poderosos de la serie.",
+      "class": "Épico",
+      "type": "Manga, Anime, Piratas, Arqueología, Historia, Poneglyphs, Misterio",
+      "gender": "Femenino",
+      "price": 1400,
+      "code": "OP5rob"
     }
   ]
 }
