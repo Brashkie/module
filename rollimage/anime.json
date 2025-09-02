@@ -1319,6 +1319,126 @@
       "gender": "Femenino",
       "price": 1400,
       "code": "OP5rob"
+    },
+    {
+      "index": 111,
+      "url": "https://telegra.ph/file/example111.jpg",
+      "name": "Guts",
+      "desp": "Berserk",
+      "info": "Guts es un espadachín solitario conocido como el 'Espadachín Negro' que busca venganza contra su antiguo amigo Griffith y los Apostoles. Armado con la masiva espada Dragonslayer y el cañón de brazo, Guts es un guerrero implacable marcado por la Marca del Sacrificio que atrae constantemente demonios hacia él. Su historia es una de las más oscuras del manga, explorando temas de traición, supervivencia y la lucha constante contra fuerzas sobrenaturales abrumadoras. Su determinación inquebrantable de proteger a Casca y enfrentar destinos aparentemente imposibles lo convierte en un protagonista legendario.",
+      "class": "Supremo",
+      "type": "Manga, Fantasía Oscura, Espadas, Demonios, Venganza, Supervivencia, Tragedia",
+      "gender": "Masculino",
+      "price": 48000,
+      "code": "BE1gut"
+    },
+    {
+      "index": 112,
+      "url": "https://telegra.ph/file/example112.jpg",
+      "name": "Monkey D. Dragon",
+      "desp": "One Piece",
+      "info": "Monkey D. Dragon es el líder del Ejército Revolucionario y el padre de Luffy, conocido como 'el criminal más buscado del mundo' por el Gobierno Mundial. Su Akuma no Mi le permite controlar el viento y las tormentas, convirtiéndolo en una fuerza de la naturaleza literal. A pesar de ser uno de los hombres más poderosos del mundo, mantiene un perfil bajo mientras trabaja para derrocar el corrupto Gobierno Mundial. Su relación distante con Luffy y su dedicación absoluta a la revolución crean un personaje misterioso pero fundamentalmente heroico.",
+      "class": "Supremo",
+      "type": "Manga, Anime, Piratas, Revolución, Viento, Padre, Gobierno Mundial",
+      "gender": "Masculino",
+      "price": 42000,
+      "code": "OP1dra"
+    },
+    {
+      "index": 113,
+      "url": "https://telegra.ph/file/example113.jpg",
+      "name": "Yami Sukehiro",
+      "desp": "Black Clover",
+      "info": "Yami Sukehiro es el capitán de los Toros Negros y mentor de Asta. Proveniente del País del Sol (Japón), Yami maneja la magia de las tinieblas y es conocido por su filosofía de 'superar tus límites' y su tendencia a resolver problemas con fuerza bruta. Su personalidad ruda pero cariñosa, combinada con su hábito de fumar y su impaciencia, lo convierten en un líder poco ortodoxo pero efectivo. Su fe inquebrantable en sus subordinados y su capacidad para ver el potencial en otros, especialmente en Asta, lo establecen como uno de los capitanes más respetados.",
+      "class": "Épico",
+      "type": "Anime, Magia, Tinieblas, Liderazgo, Mentor, Límites, Japón",
+      "gender": "Masculino",
+      "price": 1450,
+      "code": "BC2yam"
+    },
+    {
+      "index": 114,
+      "url": "https://telegra.ph/file/example114.jpg",
+      "name": "Hisoka Morow",
+      "desp": "Hunter x Hunter",
+      "info": "Hisoka Morow es un Hunter con tendencias psicóticas que está obsesionado con luchar contra oponentes fuertes. Su personalidad hedonista y sádica se disfraza bajo una apariencia de payaso, pero es increíblemente astuto y peligroso. Su Nen 'Bungee Gum' tiene las propiedades tanto de goma como de chicle, permitiéndole crear estrategias de combate complejas y impredecibles. Su fascinación particular con Gon y Killua, a quienes ve como 'frutas' que deben madurar antes de que pueda 'cosecharlas', lo convierte en una presencia constantemente amenazante.",
+      "class": "Legendario",
+      "type": "Anime, Payaso, Psicópata, Nen, Combate, Obsesión, Peligro",
+      "gender": "Masculino",
+      "price": 2400,
+      "code": "HH5his"
+    },
+    {
+      "index": 115,
+      "url": "https://telegra.ph/file/example115.jpg",
+      "name": "Griffith",
+      "desp": "Berserk",
+      "info": "Griffith es el líder carismático de la Banda del Halcón y posteriormente se convierte en Femto, uno de los Miembros de la Mano de Dios. Su ambición de obtener su propio reino lo lleva a sacrificar a toda su banda, incluyendo a Guts, durante el Eclipse. Su transformación de un líder inspirador y querido a un demonio despiadado representa una de las traiciones más impactantes del manga. Su belleza angelical y su carisma natural contrastan horriblemente con su naturaleza monstruosa una vez que obtiene poder demoníaco.",
+      "class": "Supremo",
+      "type": "Manga, Fantasía Oscura, Ambición, Traición, Demonio, Eclipse, Carisma",
+      "gender": "Masculino",
+      "price": 55000,
+      "code": "BE2gri"
+    },
+    {
+      "index": 116,
+      "url": "https://telegra.ph/file/example116.jpg",
+      "name": "Shinobu Kocho",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Shinobu Kocho es la Pilar Insecto, conocida por su personalidad aparentemente dulce y su sonrisa constante que oculta una sed profunda de venganza contra los demonios. A diferencia de otros Pilares, no tiene la fuerza física para decapitar demonios, por lo que usa venenos letales derivados de flores de wisteria. Su odio hacia los demonios proviene de la muerte de su hermana mayor Kanae, pero su máscara de amabilidad y su dedicación a salvar vidas como doctora muestran la complejidad de su carácter.",
+      "class": "Épico",
+      "type": "Anime, Insectos, Veneno, Venganza, Médica, Sonrisa, Pilar",
+      "gender": "Femenino",
+      "price": 1380,
+      "code": "DS4shi"
+    },
+    {
+      "index": 117,
+      "url": "https://telegra.ph/file/example117.jpg",
+      "name": "Alucard",
+      "desp": "Hellsing",
+      "info": "Alucard es un vampiro increíblemente poderoso que sirve a la Organización Hellsing como su arma definitiva contra las fuerzas sobrenaturales. Su verdadera identidad como Vlad el Empalador añade una dimensión histórica a su carácter aterrador. Con habilidades que incluyen regeneración instantánea, control de sombras, y un arsenal de armas devastadoras, Alucard se deleita en la batalla y la destrucción. Su relación compleja con su maestro Integra Hellsing y su búsqueda de un oponente verdaderamente digno definen su existencia inmortal.",
+      "class": "Supremo",
+      "type": "Anime, Vampiros, Hellsing, Regeneración, Sombras, Inmortalidad, Batalla",
+      "gender": "Masculino",
+      "price": 46000,
+      "code": "HL1alu"
+    },
+    {
+      "index": 118,
+      "url": "https://telegra.ph/file/example118.jpg",
+      "name": "Integra Hellsing",
+      "desp": "Hellsing",
+      "info": "Sir Integra Fairbrook Wingates Hellsing es la directora de la Organización Hellsing y la maestra de Alucard. A pesar de ser humana, comanda respeto tanto de vampiros como de soldados élite a través de su autoridad natural, inteligencia táctica y valentía inquebrantable. Su dedicación a proteger Inglaterra de amenazas sobrenaturales, heredada de su familia, la define completamente. Su relación única con Alucard, siendo la única persona capaz de controlarlo, demuestra su fuerza de carácter excepcional.",
+      "class": "Épico",
+      "type": "Anime, Líder, Autoridad, Inglaterra, Sobrenatural, Valentía, Control",
+      "gender": "Femenino",
+      "price": 1250,
+      "code": "HL2int"
+    },
+    {
+      "index": 119,
+      "url": "https://telegra.ph/file/example119.jpg",
+      "name": "Accelerator",
+      "desp": "A Certain Magical Index / A Certain Scientific Accelerator",
+      "info": "Accelerator es el Esper de Nivel 5 más poderoso de Academy City, con la habilidad de controlar vectores, permitiéndole manipular la dirección y magnitud de cualquier cosa que toque. Inicialmente presentado como un villano sádico, su encuentro con Last Order (una clon de Misaka) cambia fundamentalmente su perspectiva. Su arco de redención, luchando por proteger a aquellos que no pueden protegerse a sí mismos, contrasta dramáticamente con su pasado violento. Su poder absoluto viene con el costo de su aislamiento social y su lucha constante con su propia naturaleza.",
+      "class": "Supremo",
+      "type": "Anime, Esper, Vectores, Redención, Academy City, Poder, Protección",
+      "gender": "Masculino",
+      "price": 38000,
+      "code": "TMI1acc"
+    },
+    {
+      "index": 120,
+      "url": "https://telegra.ph/file/example120.jpg",
+      "name": "Misaka Mikoto",
+      "desp": "A Certain Scientific Railgun / A Certain Magical Index",
+      "info": "Misaka Mikoto, conocida como 'Railgun', es una Esper de Nivel 5 con la habilidad de manipular electricidad. Como estudiante de Tokiwadai Middle School, es admirada por su poder y personalidad fuerte, pero también lucha con las consecuencias de los experimentos realizados con sus clones. Su capacidad para disparar monedas a velocidades supersónicas usando electromagnetismo la convierte en una combatiente formidable. Su relación complicada con Touma Kamijou y su crecimiento personal mientras enfrenta las conspiraciones de Academy City definen su desarrollo como personaje.",
+      "class": "Legendario",
+      "type": "Anime, Esper, Electricidad, Railgun, Academy City, Clones, Electromagnetismo",
+      "gender": "Femenino",
+      "price": 2200,
+      "code": "TMI2mis"
     }
   ]
 }
