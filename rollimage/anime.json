@@ -1559,6 +1559,126 @@
       "gender": "Femenino",
       "price": 880,
       "code": "FMA4riz"
+    },
+    {
+      "index": 131,
+      "url": "https://telegra.ph/file/example131.jpg",
+      "name": "Muzan Kibutsuji",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Muzan Kibutsuji es el Rey Demonio original y el antagonista principal de Demon Slayer. Como el primer demonio en existir, posee habilidades regenerativas casi ilimitadas y la capacidad de transformar humanos en demonios. Su obsesión con la inmortalidad perfecta y su búsqueda desesperada de las flores de Spider Lily azul lo impulsan a sembrar el terror durante más de mil años. Su naturaleza despiadada, su inteligencia calculadora y su capacidad para cambiar de forma lo convierten en una amenaza casi invencible que ha atormentado a la humanidad durante generaciones.",
+      "class": "Supremo",
+      "type": "Anime, Rey Demonio, Inmortalidad, Regeneración, Terror, Transformación",
+      "gender": "Masculino",
+      "price": 49000,
+      "code": "DS1muz"
+    },
+    {
+      "index": 132,
+      "url": "https://telegra.ph/file/example132.jpg",
+      "name": "Kokushibo",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Kokushibo, también conocido como Michikatsu Tsugikuni, es la Luna Superior Uno y el demonio más poderoso después de Muzan. Anteriormente era un Cazador de Demonios y hermano gemelo mayor de Yoriichi Tsugikuni, el espadachín más legendario. Su transformación en demonio fue impulsada por los celos hacia su hermano y su obsesión con superar su talento natural. Sus seis ojos y su dominio de la Respiración de la Luna, una técnica derivada de la Respiración del Sol, lo convierten en un oponente casi imbatible.",
+      "class": "Supremo",
+      "type": "Anime, Luna Superior, Respiración de la Luna, Hermanos, Celos, Espada",
+      "gender": "Masculino",
+      "price": 44000,
+      "code": "DS2kok"
+    },
+    {
+      "index": 133,
+      "url": "https://telegra.ph/file/example133.jpg",
+      "name": "Yoriichi Tsugikuni",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Yoriichi Tsugikuni es considerado el espadachín más poderoso en la historia de los Cazadores de Demonios. Creador de la Respiración del Sol, la primera y más poderosa de todas las técnicas de respiración, Yoriichi fue el único que estuvo cerca de derrotar a Muzan. Su talento natural era tan extraordinario que causó envidia incluso en su hermano gemelo. Su marca de nacimiento, su capacidad de ver a través del Mundo Transparente, y su comprensión innata del combate lo convirtieron en una leyenda viviente cuyo legado perdura siglos después de su muerte.",
+      "class": "Supremo",
+      "type": "Anime, Respiración del Sol, Leyenda, Mundo Transparente, Perfección, Talento",
+      "gender": "Masculino",
+      "price": 60000,
+      "code": "DS0yor"
+    },
+    {
+      "index": 134,
+      "url": "https://telegra.ph/file/example134.jpg",
+      "name": "Akaza",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Akaza es la Luna Superior Tres, un demonio que conserva su honor de guerrero y se niega a atacar o consumir mujeres. Su pasado como humano llamado Hakuji, quien cuidaba de su maestro enfermo y su hija Koyuki, añade una dimensión trágica a su carácter. Su transformación en demonio fue el resultado del dolor por perder a quienes amaba. Su técnica de combate 'Compass Needle' le permite detectar la intención asesina y su fuerza física es extraordinaria, convirtiendo cada pelea en una danza mortal de artes marciales.",
+      "class": "Épico",
+      "type": "Anime, Luna Superior, Artes Marciales, Honor, Tragedia, Compass Needle",
+      "gender": "Masculino",
+      "price": 1500,
+      "code": "DS3aka"
+    },
+    {
+      "index": 135,
+      "url": "https://telegra.ph/file/example135.jpg",
+      "name": "Douma",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Douma es la Luna Superior Dos, un demonio que lidera una secta religiosa y se presenta como un salvador benevolente mientras devora a sus seguidores. Su incapacidad para sentir emociones reales y su naturaleza psicopática lo convierten en uno de los demonios más perturbadores. Sus técnicas de hielo, derivadas de su respiración cuando era humano, son devastadoramente hermosas pero letales. Su relación con Inosuke, cuya madre escapó de su culto, y su batalla final con Shinobu Kocho revelan la extensión de su maldad casual y su falta total de empatía.",
+      "class": "Épico",
+      "type": "Anime, Luna Superior, Hielo, Psicópata, Religión, Emociones",
+      "gender": "Masculino",
+      "price": 1480,
+      "code": "DS4dou"
+    },
+    {
+      "index": 136,
+      "url": "https://telegra.ph/file/example136.jpg",
+      "name": "Gyomei Himejima",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Gyomei Himejima es el Pilar de la Piedra y el Cazador de Demonios más fuerte entre los Pilares actuales. A pesar de su ceguera, su sentido del oído y tacto extraordinarios, combinados con su fuerza física inmensa, lo convierten en un guerrero formidable. Su arma única, una hacha conectada a una maza con cadenas, refleja su estilo de combate poco ortodoxo. Su naturaleza gentil y su fe profunda contrastan con su apariencia intimidante, y su pasado como monje budista se refleja en su compasión incluso hacia los demonios.",
+      "class": "Épico",
+      "type": "Anime, Pilar de la Piedra, Ceguera, Fuerza, Budismo, Compasión",
+      "gender": "Masculino",
+      "price": 1420,
+      "code": "DS5gyo"
+    },
+    {
+      "index": 137,
+      "url": "https://telegra.ph/file/example137.jpg",
+      "name": "Mitsuri Kanroji",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Mitsuri Kanroji es el Pilar del Amor, conocida por su personalidad alegre, su apetito voraz y su fuerza física extraordinaria a pesar de su apariencia delicada. Su técnica de Respiración del Amor, derivada de la Respiración de las Llamas, se combina con su espada flexible única para crear un estilo de combate fluido y poderoso. Su búsqueda de un esposo más fuerte que ella y su inseguridad sobre su apariencia física contrastan con su valentía en batalla y su naturaleza genuinamente cariñosa hacia sus compañeros.",
+      "class": "Raro",
+      "type": "Anime, Pilar del Amor, Fuerza, Apetito, Respiración del Amor, Alegría",
+      "gender": "Femenino",
+      "price": 920,
+      "code": "DS6mit"
+    },
+    {
+      "index": 138,
+      "url": "https://telegra.ph/file/example138.jpg",
+      "name": "Obanai Iguro",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Obanai Iguro es el Pilar de la Serpiente, conocido por su serpiente blanca Kaburamaru que siempre lleva enrollada en su cuello y que compensa su visión parcial. Su técnica de Respiración de la Serpiente imita los movimientos sinuosos de una serpiente, creando ataques impredecibles y letales. Su pasado traumático con una familia de demonios que lo mantuvo prisionero explica su odio intenso hacia los demonios y su naturaleza reservada. Su amor secreto por Mitsuri Kanroji añade una dimensión emocional a su carácter aparentemente frío.",
+      "class": "Raro",
+      "type": "Anime, Pilar de la Serpiente, Serpiente, Trauma, Respiración de la Serpiente",
+      "gender": "Masculino",
+      "price": 890,
+      "code": "DS7oba"
+    },
+    {
+      "index": 139,
+      "url": "https://telegra.ph/file/example139.jpg",
+      "name": "Sanemi Shinazugawa",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Sanemi Shinazugawa es el Pilar del Viento, conocido por su naturaleza agresiva y su odio feroz hacia los demonios. Su sangre rara, conocida como 'sangre embriagadora', es intoxicante para los demonios y debilita sus habilidades. Su relación tensa con su hermano menor Genya, a quien trata duramente para alejarlo del peligroso mundo de la caza de demonios, revela su naturaleza protectora oculta. Su técnica de Respiración del Viento es salvaje y destructiva, reflejando su personalidad combativa y su determinación de eliminar todos los demonios.",
+      "class": "Épico",
+      "type": "Anime, Pilar del Viento, Sangre Rara, Agresividad, Respiración del Viento",
+      "gender": "Masculino",
+      "price": 1350,
+      "code": "DS8san"
+    },
+    {
+      "index": 140,
+      "url": "https://telegra.ph/file/example140.jpg",
+      "name": "Tengen Uzui",
+      "desp": "Demon Slayer (Kimetsu no Yaiba)",
+      "info": "Tengen Uzui es el ex-Pilar del Sonido, un ninja flamboyante que se autodenomina 'dios' debido a su naturaleza extravagante y su confianza suprema. Su técnica de Respiración del Sonido utiliza bombas explosivas y le permite crear ataques devastadores basados en ritmos musicales. Su trasfondo como ninja de élite de un clan brutal explica sus habilidades excepcionales en combate y espionaje. Su retiro después de perder un ojo y una mano en batalla contra las Lunas Superiores demuestra su sabiduría para saber cuándo retirarse, algo raro entre los Cazadores de Demonios.",
+      "class": "Épico",
+      "type": "Anime, Ex-Pilar del Sonido, Ninja, Bombas, Respiración del Sonido, Flamboyante",
+      "gender": "Masculino",
+      "price": 1380,
+      "code": "DS9ten"
     }
   ]
 }
