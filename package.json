@@ -1,6 +1,6 @@
 {
   "name": "module-brashkie",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Módulo para obtener información de Pokémon, anime y contenido random.",
   "main": "index.js",
   
