@@ -8,6 +8,29 @@
 
 API REST diseñada específicamente para bots de WhatsApp que proporciona acceso a contenido multimedia organizado por categorías. Compatible tanto con la librería Baileys como con la API oficial de WhatsApp Business.
 
+## 🚀 Hepein API Oficial (Próximamente)
+
+### **¿Por qué esta versión está limitada?**
+- ⚠️ **Máximo 4,000 elementos** (versión demo)
+- ⚠️ **Funcionalidades básicas** únicamente
+
+### **🔥 Hepein API Oficial - En Desarrollo**
+Estamos construyendo una plataforma completa que incluirá:
+- ✅ **+10,000 elementos** multimedia de alta calidad
+- ✅ **Dashboard de administración** 
+- ✅ **API keys personalizadas**
+- ✅ **Estadísticas en tiempo real**
+- ✅ **Soporte técnico dedicado**
+- ✅ **Uptime 99.9% garantizado**
+
+**🌐 Próximamente en:** `hepein.com/api` 
+
+📧 **Lista de espera:** [electronicatodo2006@gmail.com]
+🔔 **Síguenos para updates:** [https://www.tiktok.com/@moises_yaurivilca]
+
+---
+*Regístrate para acceso anticipado y descuentos de lanzamiento*
+
 ## 🗂️ Estructura del Proyecto
 
 ```
