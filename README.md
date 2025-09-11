@@ -75,9 +75,9 @@ Tu apoyo nos ayuda a mantener y hacer crecer este proyecto para la comunidad de 
 
 Para consultas sobre implementación en tu bot de WhatsApp o reportar issues:
 
-- 📧 Email: [tu-email@ejemplo.com]
-- 💬 Discord: [Tu Discord]
-- 🐦 Twitter: [@tu-usuario]
+- 📧 Email: [electronicatodo2006@gmail.com]
+- 💬 Discord: https://discord.gg/ZMxcv2CV
+- 🐦 Twitter: [@MoisesYaurivil1]
 
 ## ⚖️ Derechos de Autor y Licencia
 
