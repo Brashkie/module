@@ -24,7 +24,6 @@
 - [✨ Características](#-características)
 - [🚧 Estado Actual vs Hepein Oficial](#-estado-actual-vs-hepein-oficial)
 - [🗂️ Estructura del Proyecto](#️-estructura-del-proyecto)
-- [⚡ Instalación y Uso](#-instalación-y-uso)
 - [🔌 Endpoints de la API](#-endpoints-de-la-api)
 - [💻 Ejemplos de Código](#-ejemplos-de-código)
 - [🤖 Compatibilidad](#-compatibilidad)
