@@ -144,41 +144,6 @@
 
 ---
 
-## ⚡ Instalación y Uso
-
-### 📋 **Requisitos Previos**
-- Node.js 16.x o superior
-- npm o yarn
-- Bot de WhatsApp (Baileys o API Oficial)
-
-### 🚀 **Instalación Rápida**
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/Brashkie/module.git
-cd module
-
-# Instalar dependencias
-npm install
-
-# Iniciar el servidor
-npm start
-```
-
-### 🔧 **Configuración**
-
-```javascript
-// config.js
-module.exports = {
-  port: process.env.PORT || 3000,
-  baseUrl: 'https://tu-dominio.com',
-  maxElements: 4000,
-  enableNSFW: true // Cambiar a false para deshabilitar contenido NSFW
-}
-```
-
----
-
 ## 🔌 Endpoints de la API
 
 ### 📸 **Imágenes**
