@@ -88,6 +88,8 @@
 </tr>
 </table>
 
+> **Hepein APIs** es solo uno de los servicios dentro de la **Plataforma Hepein Oficial**
+
 ### 🎯 **¿Listo para la versión completa?**
 
 🌐 **Próximamente en:** `hepein.com/api`  
