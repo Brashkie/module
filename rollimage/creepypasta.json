@@ -7,12 +7,12 @@
       "gender": "Unknown",
       "habilidad": "Teleportación, manipulación mental, tentáculos",
       "debilidad": "Fuego, cámaras, confrontación directa",
-      "value": 1950,
+      "value": "1950",
       "image": "slenderman.jpg",
       "vid": "slenderman_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 2,
@@ -21,12 +21,12 @@
       "gender": "Male",
       "habilidad": "Agilidad sobrehumana, resistencia al dolor",
       "debilidad": "Obsesión compulsiva, inestabilidad mental",
-      "value": 1650,
+      "value": "1650",
       "image": "jeff_killer.jpg",
       "vid": "jeff_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 3,
@@ -35,12 +35,12 @@
       "gender": "Male",
       "habilidad": "Manipulación tecnológica, posesión de videojuegos",
       "debilidad": "Limitado a dispositivos electrónicos",
-      "value": 1400,
+      "value": "1400",
       "image": "ben_drowned.jpg",
       "vid": "ben_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 4,
@@ -49,12 +49,12 @@
       "gender": "Male",
       "habilidad": "Visión nocturna, cirugía precisa, sigilo",
       "debilidad": "Necesidad de órganos humanos",
-      "value": 1300,
+      "value": "1300",
       "image": "eyeless_jack.jpg",
       "vid": "eyeless_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 5,
@@ -63,12 +63,12 @@
       "gender": "Male",
       "habilidad": "Insensibilidad al dolor, manejo de hachas",
       "debilidad": "Síndrome de Tourette, inestabilidad emocional",
-      "value": 1250,
+      "value": "1250",
       "image": "ticci_toby.jpg",
       "vid": "toby_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 6,
@@ -77,12 +77,12 @@
       "gender": "Female",
       "habilidad": "Combate cuerpo a cuerpo, venganza implacable",
       "debilidad": "Obsesión con Jeff the Killer",
-      "value": 1200,
+      "value": "1200",
       "image": "jane_killer.jpg",
       "vid": "jane_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 7,
@@ -91,12 +91,12 @@
       "gender": "Male",
       "habilidad": "Manipulación de juguetes, ilusiones, invisibilidad selectiva",
       "debilidad": "Dependencia de la atención infantil",
-      "value": 1350,
+      "value": "1350",
       "image": "laughing_jack.jpg",
       "vid": "laughing_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 8,
@@ -105,12 +105,12 @@
       "gender": "Female",
       "habilidad": "Manipulación de osos de peluche, teletransporte",
       "debilidad": "Mentalidad infantil, trauma del pasado",
-      "value": 800,
+      "value": "800",
       "image": "sally_williams.jpg",
       "vid": "sally_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 9,
@@ -119,12 +119,12 @@
       "gender": "Female",
       "habilidad": "Precisión mecánica, resistencia aumentada",
       "debilidad": "Obsesión con la puntualidad, traumas familiares",
-      "value": 950,
+      "value": "950",
       "image": "clockwork.jpg",
       "vid": "clockwork_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 10,
@@ -133,12 +133,12 @@
       "gender": "Male",
       "habilidad": "Acecho experto, resistencia física",
       "debilidad": "Control limitado de su propia mente",
-      "value": 1100,
+      "value": "1100",
       "image": "masky.jpg",
       "vid": "masky_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 11,
@@ -147,12 +147,12 @@
       "gender": "Male",
       "habilidad": "Sigilo excepcional, teletransporte menor",
       "debilidad": "Lealtad ciega a Slender Man",
-      "value": 1050,
+      "value": "1050",
       "image": "hoodie.jpg",
       "vid": "hoodie_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 12,
@@ -161,12 +161,12 @@
       "gender": "Female",
       "habilidad": "Obsesión letal, manipulación social",
       "debilidad": "Desequilibrio mental extremo",
-      "value": 600,
+      "value": "600",
       "image": "nina_killer.jpg",
       "vid": "nina_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 13,
@@ -175,12 +175,12 @@
       "gender": "Female",
       "habilidad": "Aparición en espejos, maldiciones",
       "debilidad": "Limitada a espejos y baños",
-      "value": 1450,
+      "value": "1450",
       "image": "bloody_mary.jpg",
       "vid": "mary_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 14,
@@ -189,12 +189,12 @@
       "gender": "Unknown",
       "habilidad": "Velocidad sobrehumana, garras afiladas",
       "debilidad": "Comportamiento primitivo e impredecible",
-      "value": 1500,
+      "value": "1500",
       "image": "the_rake.jpg",
       "vid": "rake_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 15,
@@ -203,12 +203,12 @@
       "gender": "Unknown",
       "habilidad": "Infección mental a través de imágenes",
       "debilidad": "Dependencia de la transmisión viral",
-      "value": 1300,
+      "value": "1300",
       "image": "smile_dog.jpg",
       "vid": "smile_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 16,
@@ -217,12 +217,12 @@
       "gender": "Male",
       "habilidad": "Control de realidad digital, posesión de juegos",
       "debilidad": "Limitado al mundo de Sonic",
-      "value": 1600,
+      "value": "1600",
       "image": "sonic_exe.jpg",
       "vid": "sonic_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 17,
@@ -231,12 +231,12 @@
       "gender": "Unknown",
       "habilidad": "Posesión, manipulación de la realidad",
       "debilidad": "Forma física frágil",
-      "value": 900,
+      "value": "900",
       "image": "tails_doll.jpg",
       "vid": "tails_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 18,
@@ -245,12 +245,12 @@
       "gender": "Male",
       "habilidad": "Manipulación de Pokémon, control de datos",
       "debilidad": "Atado al mundo Pokémon",
-      "value": 750,
+      "value": "750",
       "image": "red_pokemon.jpg",
       "vid": "red_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 19,
@@ -259,12 +259,12 @@
       "gender": "Male",
       "habilidad": "Manipulación de save files, presencia espectral",
       "debilidad": "Existencia incompleta",
-      "value": 700,
+      "value": "700",
       "image": "lost_silver.jpg",
       "vid": "silver_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 20,
@@ -273,12 +273,12 @@
       "gender": "Male",
       "habilidad": "Personalidad múltiple, combate con cuchillos",
       "debilidad": "Conflicto interno con Sully",
-      "value": 850,
+      "value": "850",
       "image": "homicidal_liu.jpg",
       "vid": "liu_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 21,
@@ -287,12 +287,12 @@
       "gender": "Male",
       "habilidad": "Manipulación de sombras, teletransporte",
       "debilidad": "Dependencia de la oscuridad",
-      "value": 1150,
+      "value": "1150",
       "image": "kagekao.jpg",
       "vid": "kagekao_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 22,
@@ -301,12 +301,12 @@
       "gender": "Male",
       "habilidad": "Control mental, manipulación de hilos dorados",
       "debilidad": "Vínculos emocionales del pasado",
-      "value": 1250,
+      "value": "1250",
       "image": "puppeteer.jpg",
       "vid": "puppeteer_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 23,
@@ -315,12 +315,12 @@
       "gender": "Male",
       "habilidad": "Creación de juguetes vivientes, manipulación",
       "debilidad": "Obsesión con la perfección",
-      "value": 1000,
+      "value": "1000",
       "image": "jason_toymaker.jpg",
       "vid": "jason_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 24,
@@ -329,12 +329,12 @@
       "gender": "Male",
       "habilidad": "Manipulación dimensional, ilusiones",
       "debilidad": "Naturaleza impredecible",
-      "value": 1180,
+      "value": "1180",
       "image": "candy_pop.jpg",
       "vid": "candy_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 25,
@@ -343,12 +343,12 @@
       "gender": "Male",
       "habilidad": "Invisibilidad social, manipulación psicológica",
       "debilidad": "Necesidad de reconocimiento",
-      "value": 400,
+      "value": "400",
       "image": "nathan_nobody.jpg",
       "vid": "nathan_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 26,
@@ -357,12 +357,12 @@
       "gender": "Male",
       "habilidad": "Copia de habilidades, manipulación de sombras",
       "debilidad": "Existencia parasitaria",
-      "value": 1350,
+      "value": "1350",
       "image": "dark_link.jpg",
       "vid": "darklink_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 27,
@@ -371,12 +371,12 @@
       "gender": "Unknown",
       "habilidad": "Corrupción de la realidad, manipulación textual",
       "debilidad": "Naturaleza caótica incontrolable",
-      "value": 1800,
+      "value": "1800",
       "image": "zalgo.jpg",
       "vid": "zalgo_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 28,
@@ -385,12 +385,12 @@
       "gender": "Unknown",
       "habilidad": "Velocidad letal, resistencia absoluta",
       "debilidad": "Inmovilidad bajo observación directa",
-      "value": 1700,
+      "value": "1700",
       "image": "scp173.jpg",
       "vid": "scp173_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 29,
@@ -399,12 +399,12 @@
       "gender": "Male",
       "habilidad": "Manipulación del mundo Minecraft, construcción",
       "debilidad": "Limitado al universo de Minecraft",
-      "value": 1550,
+      "value": "1550",
       "image": "herobrine.jpg",
       "vid": "herobrine_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     },
     {
       "id": 30,
@@ -413,12 +413,12 @@
       "gender": "Male",
       "habilidad": "Hackeo de servidores, griefing supernatural",
       "debilidad": "Venganza como única motivación",
-      "value": 1250,
+      "value": "1250",
       "image": "entity303.jpg",
       "vid": "entity_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": 0
+      "votes": "0"
     }
   ]
 }
