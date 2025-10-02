@@ -12,7 +12,7 @@
       "vid": "slenderman_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       "vid": "jeff_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
       "vid": "ben_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       "vid": "eyeless_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 5,
@@ -68,7 +68,7 @@
       "vid": "toby_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
       "vid": "jane_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 7,
@@ -96,7 +96,7 @@
       "vid": "laughing_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 8,
@@ -110,7 +110,7 @@
       "vid": "sally_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 9,
@@ -124,7 +124,7 @@
       "vid": "clockwork_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 10,
@@ -138,7 +138,7 @@
       "vid": "masky_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 11,
@@ -152,7 +152,7 @@
       "vid": "hoodie_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 12,
@@ -166,7 +166,7 @@
       "vid": "nina_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 13,
@@ -180,7 +180,7 @@
       "vid": "mary_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 14,
@@ -194,7 +194,7 @@
       "vid": "rake_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 15,
@@ -208,7 +208,7 @@
       "vid": "smile_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 16,
@@ -222,7 +222,7 @@
       "vid": "sonic_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 17,
@@ -236,7 +236,7 @@
       "vid": "tails_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 18,
@@ -250,7 +250,7 @@
       "vid": "red_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 19,
@@ -264,7 +264,7 @@
       "vid": "silver_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 20,
@@ -278,7 +278,7 @@
       "vid": "liu_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 21,
@@ -292,7 +292,7 @@
       "vid": "kagekao_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 22,
@@ -306,7 +306,7 @@
       "vid": "puppeteer_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 23,
@@ -320,7 +320,7 @@
       "vid": "jason_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 24,
@@ -334,7 +334,7 @@
       "vid": "candy_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 25,
@@ -348,7 +348,7 @@
       "vid": "nathan_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 26,
@@ -362,7 +362,7 @@
       "vid": "darklink_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 27,
@@ -376,7 +376,7 @@
       "vid": "zalgo_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 28,
@@ -390,7 +390,7 @@
       "vid": "scp173_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 29,
@@ -404,7 +404,7 @@
       "vid": "herobrine_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     },
     {
       "id": 30,
@@ -418,7 +418,7 @@
       "vid": "entity_video.mp4",
       "status": "libre",
       "user": null,
-      "votes": "0"
+      "votes": 0
     }
   ]
 }
